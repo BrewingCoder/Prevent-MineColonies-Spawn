@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "Prevent Minecolonies from spawning those abandoned colonies in the overworld.",
+        "pack_format": 9
+    }
+}
